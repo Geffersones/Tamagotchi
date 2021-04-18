@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\bin\Debug\Тамагочи.exe.config
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\bin\Debug\Тамагочи.exe
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\bin\Debug\Тамагочи.pdb
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.Form1.resources
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.Properties.Resources.resources
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.exe
+C:\Users\Admin\source\repos\Тамагочи\Тамагочи\obj\Debug\Тамагочи.pdb

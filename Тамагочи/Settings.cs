@@ -17,6 +17,11 @@ namespace Тамагочи
         public static int add;
         public static int dif;
 
+        public static int speed;
+        public static bool is_gameover;
+
+        public static int default_dif;
+
         public Settings()
         {
             eat = new Scale (100);
@@ -27,6 +32,10 @@ namespace Тамагочи
             
             add = 16;
             dif = 8;
+
+            speed = 2;
+            is_gameover = false;
+            default_dif = 1;
         }
 
     }
